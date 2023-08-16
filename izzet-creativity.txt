@@ -1,0 +1,50 @@
+## Sideboard Guide
+
+===accordion
+===panel: Spirits
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Nykthos Devotion
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Hidden Stirrings Lotus
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Monow
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Convoke
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Greasefang
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+===endpanel
+===endaccordion
