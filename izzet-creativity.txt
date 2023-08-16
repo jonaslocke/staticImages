@@ -2,49 +2,71 @@
 
 ===accordion
 ===panel: Spirits
-![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
-
-![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
-
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout-h.png) 
+1 [[Xenagos, God of Revels]] / 1 [[Worldspine Wurm]] / 4 [[Indomitable Creativity]] / 2 [[Big Score]]
+</br>
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-h.png) 3 [[Rending Volley]] / 4 [[Shark Typhoon]] / 1 [[Brotherhood's End]]
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Nykthos Devotion
-![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout-h.png)</br>
+otd - 1 [[Xenagos, God of Revels]] / 1 [[Worldspine Wurm]] / 2 [[Indomitable Creativity]] / 3 [[Volcanic Spite]]
+</br>
+otp - 4 [[Volcanic Spite]] / 1 [[Dig Through Time]]
 
-![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-h.png)</br>
+otd - 2 [[Aether Gust]] / 1 [[Negate]] / 2 [[Mystical Dispute]] / 2 [[Hullbreaker Horror]] </br>
+otp - 2 [[Aether Gust]] / 1 [[Negate]] / 2 [[Mystical Dispute]]
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Hidden Stirrings Lotus
-![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout-h.png) 4 [[Fiery Impulse]] / 4 [[Volcanic Spite]] / 1 [[Fable of the Mirror-Breaker // Reflection of Kiki-Jiki]] / 1 [[Spikefield Hazard // Spikefield Cave]]
+</br>
 
-![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-h.png)  3 [[Shark Typhoon]] / 1 [[Negate]] / 2 [[Mystical Dispute]] / 2 [[Hullbreaker Horror]] / 2 [[Aether Gust]]
 ===endpanel
 ===endaccordion
 
 ===accordion
-===panel: Monow
-![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+===panel: Mono W Humans
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout-h.png) 2 [[Spell Pierce]] / 1 [[Negate]] / 1 [[Dig Through Time]]
+</br>
 
-![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-h.png) 1 [[Brotherhood's End]] / 3 [[Rending Volley]] 
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Convoke
-![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout-h.png) 2 [[Fable of the Mirror-Breaker // Reflection of Kiki-Jiki]] / 1 [[Negate]] / 1 [[Dig Through Time]]
+</br>
 
-![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-h.png) 1 [[Brotherhood's End]] / 3 [[Rending Volley]]
 ===endpanel
 ===endaccordion
 
 ===accordion
 ===panel: Greasefang
-![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout.png)</br>
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout-h.png) 1 [[Negate]] / 1 [[Dig Through Time]] / 1 [[Make Disappear]]
+</br>
 
-![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-full.png)</br>
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-h.png) 3 [[Rending Volley]]
+===endpanel
+===endaccordion
+
+===accordion
+===panel: Rakdos Sac
+![SideOut](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sideout-h.png)</br>
+plan [[symbol:1]] - 1 [[Fiery Impulse]] </br>
+plan [[symbol:2]] - 1 [[Xenagos, God of Revels]] / 1 [[Worldspine Wurm]] / 1 [[Indomitable Creativity]] 
+</br>
+
+![SideIn](https://raw.githubusercontent.com/jonaslocke/staticImages/main/sidein-h.png)</br>
+plan [[symbol:1]] - 1 [[Negate]] </br>
+plan [[symbol:2]] - 2 [[Hullbreaker Horror]] / 1 [[Negate]]
 ===endpanel
 ===endaccordion
